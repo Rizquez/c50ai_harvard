@@ -27,17 +27,14 @@ Cada proyecto contiene un archivo `requirements.txt` con las dependencias necesa
 1. Clonar el repositorio:
 ```
 git clone git@github.com:Rizquez/c50ai_harvard.git
-
 ```
 2. Cambia a la rama correspondiente para el proyecto que deseas ejecutar:
 ```
 git checkout <nombre_rama>
-
 ```
 3. Instalar las dependencias del proyecto:
 ```
 pip install -r requirements.txt
-
 ```
 
 ## Licencia
@@ -47,4 +44,4 @@ Este proyecto está bajo una licencia `MIT`. Consulta el archivo LICENSE para m�
 Las contribuciones son bienvenidas. Si encuentras algun problema o tienes sugerencias, no dudes en abrir un `issue` o hacer un `pull request`. ¡Toda ayuda es apreciada!
 
 ## Agradecimientos
-Agradezco a Harvard y al equipo del curso `CS50AI` por su excelente material y orientacion en el campo de la inteligencia artificial. Tambien quiero agradecer a todos aquellos que han contribuido a mi desarrollo en este campo.
+Agradezco a `Harvard` y al equipo del curso `CS50AI` por su excelente material y orientacion en el campo de la inteligencia artificial. Tambien quiero agradecer a todos aquellos que han contribuido a mi desarrollo en este campo.
