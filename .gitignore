@@ -1,0 +1,5 @@
+**/__pycache__/
+**/_data_local/
+**/_notes/
+**/venv/
+**/.env
