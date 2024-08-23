@@ -1,25 +1,28 @@
-# Proyectos de CS50's Introduction to Artificial Intelligence with Python (CS50AI) - Harvard
+# Proyectos: CS50's Introduction to Artificial Intelligence with Python (CS50AI) - Harvard
 
 Este repositorio contiene todos los proyectos que he desarrollado como parte del curso __CS50's Introduction to Artificial Intelligence with Python__ de Harvard. A lo largo de este curso, he aplicado tecnicas de inteligencia artificial y aprendizaje automatico para resolver una variedad de problemas interesantes, desde juegos hasta modelos predictivos y procesamiento de lenguaje natural.
 
 Cada uno de estos proyectos ha sido implementado en Python, utilizando bibliotecas y herramientas relevantes del campo de la inteligencia artificial.
 
 ## Estructura del Repositorio
-Cada proyecto se encuentra en una rama separada del repositorio, con su propio conjunto de archivos y dependencias. A continuacion, una breve descripcion de cada uno de los proyectos y las ramas en las que se encuentran. 
+Cada proyecto se encuentra en una rama separada del repositorio, con su propio conjunto de archivos y dependencias. A continuacion, las ramas en las que se encuentran.
 
 ### Lista de proyectos:
+- attention
+- crossword
 - degrees
-- tic-tac-toe
+- heredity
 - knights
 - minesweeper
-- pagerank
-- heredity
-- crossword
-- shopping
 - nim
-- traffic
+- pagerank
 - parser
-- attention
+- shopping
+- tictactoe
+- traffic
+
+> [!NOTE]
+> Dentro de cada fichero README en cada rama se encuentra una breve descripcion de cada proyecto.
 
 ## Instalacion y uso
 Cada proyecto contiene un archivo `requirements.txt` con las dependencias necesarias. Para ejecutar los proyectos en tu maquina local, sigue estos pasos:
