@@ -5,9 +5,8 @@ Este repositorio contiene todos los proyectos que he desarrollado como parte del
 Cada uno de estos proyectos ha sido implementado en Python, utilizando bibliotecas y herramientas relevantes del campo de la inteligencia artificial.
 
 ## Estructura del Repositorio
-Cada proyecto se encuentra en una rama separada del repositorio, con su propio conjunto de archivos y dependencias. A continuacion, las ramas en las que se encuentran.
+Cada proyecto se encuentra en una rama separada del repositorio, con su propio conjunto de archivos y dependencias. A continuacion, la lista de las ramas/proyectos en las que se encuentran:
 
-### Lista de proyectos:
 - attention
 - crossword
 - degrees
