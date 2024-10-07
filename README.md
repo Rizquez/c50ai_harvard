@@ -4,7 +4,7 @@ Este repositorio contiene todos los proyectos que he desarrollado como parte del
 
 Cada uno de estos proyectos ha sido implementado en Python, utilizando bibliotecas y herramientas relevantes del campo de la inteligencia artificial.
 
-## Estructura del Repositorio
+## 📂 Estructura del Repositorio
 Cada proyecto se encuentra en una rama separada del repositorio, con su propio conjunto de archivos y dependencias. A continuacion, la lista de las ramas/proyectos en las que se encuentran:
 
 - attention
@@ -23,7 +23,7 @@ Cada proyecto se encuentra en una rama separada del repositorio, con su propio c
 > [!NOTE]
 > Dentro de cada fichero README en cada rama se encuentra una breve descripcion de cada proyecto.
 
-## Instalacion y uso
+## 🧾 Instalacion y uso
 Cada proyecto contiene un archivo `requirements.txt` con las dependencias necesarias. Para ejecutar los proyectos en tu maquina local, sigue estos pasos:
 
 1. Clonar el repositorio:
@@ -39,11 +39,11 @@ git checkout <nombre_rama>
 pip install -r requirements.txt
 ```
 
-## Licencia
-Este proyecto esta bajo una licencia `MIT`. Consulta el archivo `LICENSE` para mas detalles.
-
-## Contribuciones
+## 📝 Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algun problema o tienes sugerencias, no dudes en abrir un `issue` o hacer un `pull request`. ¡Toda ayuda es apreciada!
 
-## Agradecimientos
+## 😎 Agradecimientos
 Agradezco a `Harvard` y al equipo del curso `CS50AI` por su excelente material y orientacion en el campo de la inteligencia artificial. Tambien quiero agradecer a todos aquellos que han contribuido a mi desarrollo en este campo.
+
+## 📄 Licencia
+Este proyecto esta bajo una licencia `MIT`. Consulta el archivo `LICENSE` para mas detalles.
